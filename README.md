@@ -17,3 +17,7 @@ To start it, you need to run
 ```
 node index.js
 ```
+
+# Peanut
+
+Also it is used with Peanut on XLX508 (XRF508G) and works flawlessly.
